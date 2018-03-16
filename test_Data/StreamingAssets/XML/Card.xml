@@ -1,0 +1,21 @@
+<CardContainer>
+ 	<Cards>
+ 		<Monster name="Baron Geddon">
+ 			<attack>7</attack>,
+            <health>5</health>,
+            <type>"Monster"</type>,
+            <ability>BATTLECRY</ability>,
+            <desc>"Deal 2 damage to all enemys"</desc>
+            <cost>7</cost>
+ 		</Monster>
+
+ 		<Monster name="Elven Archer">
+ 			<attack>1</attack>,
+            <health>1</health>,
+            <type>"Card"</type>,
+            <ability>BATTLECRY</ability>,
+            <desc>"Battlecry: Deal 1 damage"</desc>
+            <cost>1</cost>
+ 		</Monster>
+ 	</Cards>
+ </CardContainer>
